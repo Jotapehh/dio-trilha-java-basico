@@ -1,6 +1,6 @@
 # 🏦 Conta Banco
 ### ℹ️ Sobre
-Um do bootcamp da [DIO](https://web.dio.me), simulando uma conta bancária através do terminal.
+Um projeto do bootcamp **Bradesco - Java Cloud Native** da [DIO](https://web.dio.me), simulando uma conta bancária através do terminal.
 ### 🔗 Referências
  - [README do desafio](https://github.com/digitalinnovationone/trilha-java-basico/blob/main/desafios/sintaxe/README.md)
 ### 💻 Tecnologia
